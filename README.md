@@ -1,10 +1,5 @@
-Assignment 9 – EVA 6
+Assignment 10 
 ======================
-Developers
-=================
-• Monimoy Purkayastha (monimoyd@gmail.com)
-
-• Nihar Kanungo (nihar.kanungo@gmail.com)
 
 Explanation
 ============
