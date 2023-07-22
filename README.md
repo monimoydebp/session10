@@ -90,7 +90,7 @@ Target Accuracy: 90%
 
 Result 
 ------
-Achieved 91% Accuracy on 18th Epoch and constantly till 24th Epoch
+Achieved best accuracy of 92.18% in 24th epoch. From 16th epcoh itself achieved 90.45% and it steadily increases over epochs
 
 Assumptions
 -------------
