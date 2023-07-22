@@ -3,7 +3,7 @@ Assignment 10
 
 Explanation
 ============
-This Package trains a Deep Neural Network on CIFAR data. It's been packaged properly and you may find details as following 
+This Package trains a Deep Neural Network on CIFAR data. It's been packaged as per details below 
 
 /data_loaders/cifar10_data_loader.py 
 -------------------------------------
