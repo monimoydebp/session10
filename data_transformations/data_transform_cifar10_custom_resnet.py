@@ -2,7 +2,7 @@ from PIL import Image
 import cv2
 import numpy as np
 from albumentations import Compose, RandomCrop, Normalize, HorizontalFlip, Resize,GaussNoise, PadIfNeeded,ShiftScaleRotate, CoarseDropout,ToGray
-from albumentations.augmentations.transforms import Cutout
+from albumentations.augmentations.dropout.cutout import Cutout
 from albumentations.pytorch import ToTensorV2
 
 
